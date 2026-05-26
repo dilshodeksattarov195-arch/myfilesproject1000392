@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersetch",
+        "uuid": 285376,
+        "checksum": "yiztsl"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
